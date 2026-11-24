@@ -1,0 +1,33 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,aspondylitis,jkq_aspondylitis,jkq_aspondylitis_note
+458389015,43c5,43c5.00,1016801000000106,2557861000000118,HLA B27 antigen screening test,1,2,if positive result
+829241000006117,4KB1,4KB1.00,1016801000000106,2557861000000118,Human leucocyte antigen B27 screen,1,2,if positive result
+4427681000006115,^ESCTAN442768,,129564003,208347019,Ankylosing spondylarthritis and eye lesions,1,1,
+15426501000006119,^ESCT1542650,,1296649008,5286292012,Bath Ankylosing Spondylitis Metrology Index,1,1,
+15426541000006117,^ESCT1542654,,1296651007,5286298011,Bath Ankylosing Spondylitis Functional Index,1,1,
+1574911000006110,FUNDHHL1,,1574911000006106,1574911000006110,Hla B27 Antigens,1,1,
+253940015,2377,2377.00,162930007,2668362011,On examination - ankylosing spondylitis chest deformity,1,1,
+359312010,N0450,N045000,239805001,359312010,Juvenile ankylosing spondylitis,1,1,
+5139561000006111,^ESCTAN513956,,239810002,359318014,Ankylosing spondylitis with organ / system involvement,1,1,
+5139571000006116,^ESCTAN513957,,239811003,359319018,Ankylosing spondylitis with multisystem involvement,1,1,
+6042491000006119,^ESCTHL604249,,314096001,458389015,HLA B27 antigen screening test,1,2,if positive result
+3054861000006113,^ESCTHL305486,,34453005,1216429018,HLA - Human leucocyte antigen B27,1,2,if positive result
+3054871000006118,^ESCTHL305487,,34453005,1217919014,HLA - Human leukocyte antigen B27,1,2,if positive result
+3054881000006115,^ESCTHU305488,,34453005,1217920015,Human leukocyte antigen B27,1,2,if positive result
+3054841000006114,^ESCTHL305484,,34453005,57511012,HLA-B27 antigen,1,2,if positive result
+11928601000006117,^ESCT1192860,,429712009,2692996011,BASDAI - Bath ankylosing spondylitis disease activity index,1,1,
+7107581000006119,^ESCTBA710758,,429712009,2692997019,Bath ankylosing spondylitis disease activity index,1,1,
+15497481000006116,^ESCT1549748,,429712009,5286286018,Bath Ankylosing Spondylitis Disease Activity Index,1,1,
+2692996011,388p,388p.00,441562009,2817026019,Bath ankylosing spondylitis disease activity index score,1,1,
+15498251000006112,^ESCT1549825,,441562009,5286289013,Bath Ankylosing Spondylitis Disease Activity Index score,1,1,
+2325761000000118,388p0,388p000,441680005,2817378011,Bath ankylosing spondylitis functional index score,1,1,
+15498281000006116,^ESCT1549828,,441680005,5286212013,Bath Ankylosing Spondylitis Functional Index score,1,1,
+2326221000000110,38QL,38QL.00,441930001,2817787017,Bath ankylosing spondylitis metrology index score,1,1,
+15498341000006115,^ESCT1549834,,441930001,5286208019,Bath Ankylosing Spondylitis Metrology Index score,1,1,
+11886461000006119,^ESCT1188646,,712680005,2741161000000117,HLA (Human Leucocyte Antigen) B27 test positive,1,1,
+11886451000006116,^ESCT1188645,,712680005,2741171000000112,Human leucocyte antigen B27 test positive,1,1,
+1138031000000113,43cG,43cG.00,712680005,3083509018,Human leukocyte antigen B27 test positive,1,1,
+15322301000006115,^ESCT1532230,,712680005,5168357015,Human leukocyte antigen B27 detected,1,1,
+7709471000006115,^ESCTAX770947,,713777005,3297402011,Axial spondyloarthritis without radiographic evidence of ankylosing spondylitis,1,1,
+13655541000006116,^ESCT1365554,,786077003,3770748017,Ankylosing spondylitis co-occurrent with anterior uveitis,1,1,
+2653431000006115,^ESCTAS265343,,9631008,1235979011,AS - Ankylosing spondylitis,1,1,
+16833013,N100,N100.00,9631008,16833013,Ankylosing spondylitis,1,1,

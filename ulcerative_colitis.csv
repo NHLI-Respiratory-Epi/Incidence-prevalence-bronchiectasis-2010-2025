@@ -1,0 +1,36 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,codestatus,ulcerativecolitis
+14194251000006111,^ESCT1419425,,102334311000119101,4012008010,Acute ulcerative proctitis,New,1
+15267701000006118,^ESCT1526770,,10811000202109,792941000202118,Ulcerative proctitis,New,1
+8467561000006116,^ESCTFI846756,,1092861000119101,3078723014,Fistula of intestine due to ulcerative colitis,New,1
+14789131000006116,^ESCT1478913,,1230291009,5068767014,Primary biliary cholangitis and/or primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome,New,1
+4411741000006119,^ESCTAC441174,,128600008,206978018,Acute ulcerative colitis,In previous & new,1
+2726621000006117,^ESCTSE272662,,14311001,24336012,Severe chronic ulcerative colitis,In previous & new,1
+302953018,J4100,J410000,196987008,302953018,Ulcerative ileocolitis,In previous & new,1
+85901000006116,J412,J412.00,196987008,302953018,Ulcerative (chronic) ileocolitis,In previous & new,1
+5084541000006113,^ESCTUL508454,,235712006,353353010,Ulcerative jejunitis,New,1
+85891000006115,J411,J411.00,235714007,353357011,Ulcerative enterocolitis,In previous & new,1
+303052019,J4z4,J4z4.00,235765004,353430013,Sigmoiditis,In previous & new,1
+85931000006112,J41-2,J41..12,295046003,435370011,Ulcerative colitis and/or proctitis,In previous & new,1
+435370011,J410,J410.00,295046003,435370011,Ulcerative proctocolitis,In previous & new,1
+302956014,J410z,J410z00,295046003,435370011,Ulcerative proctocolitis NOS,In previous & new,1
+2532953017,J4104,J410400,414156000,2532953017,Exacerbation of ulcerative colitis,In previous & new,1
+7257811000006118,^ESCTCH725781,,441971007,2818588011,Chronic left-sided ulcerative colitis,New,1
+7260561000006112,^ESCTCH726056,,442159003,2818361017,Chronic ulcerative pancolitis,In previous & new,1
+7294371000006118,^ESCTCH729437,,444546002,2872718011,Chronic ulcerative colitis,In previous & new,1
+2872721013,J413,J413.00,444548001,2872721013,Ulcerative pancolitis,In previous & new,1
+1816421000006112,J438,J438.00,445243001,2870946010,Left sided ulcerative colitis,In previous & new,1
+14194531000006118,^ESCT1419453,,453720571000119100,4012011011,Acute ulcerative rectosigmoiditis,New,1
+3346681000006111,^ESCTUC334668,,52231000,496247012,UC - Ulcerative colitis confined to rectum,New,1
+3346691000006114,^ESCTUL334669,,52231000,496248019,Ulcerative colitis confined to rectum,In previous & new,1
+496249010,J4103,J410300,52231000,496249010,Ulcerative proctitis,In previous & new,1
+3346671000006113,^ESCTCH334667,,52231000,86924018,Chronic ulcerative proctitis,In previous & new,1
+496332018,J4102,J410200,52506002,496332018,Ulcerative rectosigmoiditis,In previous & new,1
+3351341000006118,^ESCTUL335134,,52506002,496333011,Ulcerative colitis confined to rectum and sigmoid colon,In previous & new,1
+3351351000006116,^ESCTUL335135,,52506002,496334017,Ulcerative proctosigmoiditis,In previous & new,1
+3553381000006110,^ESCTCO355338,,64766004,107643013,Colitis gravis,New,1
+107644019,J4101,J410100,64766004,107644019,Ulcerative colitis,In previous & new,1
+303762015,Jyu41,Jyu4100,64766004,107644019,[X]Other ulcerative colitis,In previous & new,1
+3553391000006113,^ESCTUC355339,,64766004,2579428017,UC - Ulcerative colitis,In previous & new,1
+906191000006113,HNG0081,,906191000006109,906191000006113,[RFC] Reason for care : Ulcerative colitis,In previous & new,1
+14195011000006119,^ESCT1419501,,966011731000119103,4011979015,Acute ulcerative pancolitis,In previous & new,1
+14195031000006113,^ESCT1419503,,969688801000119108,4012013014,Acute left sided ulcerative colitis,New,1

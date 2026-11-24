@@ -1,0 +1,71 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,sevliver
+8458621000006115,^ESCTHE845862,,1082511000119102,3083984019,Hepatic coma due to acute hepatic failure,1
+8462251000006117,^ESCTHE846225,,1085091000119108,3079245016,Hepatic coma due to chronic hepatic failure,1
+2692251000006110,^ESCTLI269225,,12074006,20807013,Ligation of gastric varices,1
+221131000000118,J622-1,J622.11,13920009,23734015,Hepatic encephalopathy,1
+2720851000006112,^ESCTHE272085,,13920009,475600012,HE - Hepatic encephalopathy,1
+24192017,G851,G851.00,14223005,24192017,Oesophageal varices without bleeding,1
+862771000006116,76094-99,7609499,173621008,862771000006116,Oesophageal varices injected,1
+4656781000006112,^ESCTFI465678,,173641003,268883010,Fibreoptic oesophagoscopy and banding of oesophageal varices,1
+4656791000006110,^ESCTFI465679,,173641003,268884016,Fiberoptic endoscopic banding of esophageal varices,1
+268885015,760C5,760C500,173641003,268885015,Fibreoptic endoscopic banding of oesophageal varices,1
+987751000006119,760F3-99,760F399,173660005,987751000006119,Oesophageal varices injected,1
+4657171000006111,^ESCTRI465717,,173661009,268954011,Rigid oesophagoscopy and banding of oesophageal varices,1
+4657181000006114,^ESCTRI465718,,173661009,268955012,Rigid esophagoscopic banding of esophageal varices,1
+268957016,760F4,760F400,173661009,268957016,Rigid oesophagoscopic banding of oesophageal varices,1
+1216060010,G850,G850.00,17709002,1216060010,Oesophageal varices with bleeding,1
+2781061000006116,^ESCTBO278106,,17709002,1216061014,BOV - Bleeding oesophageal varices,1
+2781021000006110,^ESCTBL278102,,17709002,29937010,Bleeding esophageal varices,1
+2781011000006119,^ESCTBL278101,,17709002,478405010,Bleeding oesophageal varices,1
+2781041000006115,^ESCTOE278104,,17709002,478406011,Oesophageal varices with haemorrhage,1
+4779691000006115,^ESCTOE477969,,195474004,2575713012,Oesophageal varices associated with another disorder,1
+300784019,G852z,G852z00,195474004,300774015,Oesophageal varices in diseases EC NOS,1
+300775019,G852,G852.00,195474004,300775019,Oesophageal varices in diseases EC,1
+4779721000006113,^ESCTOE477972,,195475003,2575715017,"Oesophageal varices with bleeding, associated with another disorder",1
+300776018,G8520,G852000,195475003,300776018,Oesophageal varices with bleeding in diseases EC,1
+4779751000006116,^ESCTOE477975,,195476002,2575717013,"Oesophageal varices without bleeding, associated with another disorder",1
+300779013,G8521,G852100,195476002,300779013,Oesophageal varices without bleeding in diseases EC,1
+303388015,J6010,J601000,197275004,303388015,Subacute hepatic failure,1
+303466016,J62,J62..00,197324004,303466016,Liver abscess and sequelae of chronic liver disease,1
+303512010,J6351,J635100,197356006,303512010,Toxic liver disease with hepatic necrosis,1
+325080013,SP142,SP14200,213230009,325080013,Hepatic failure as a complication of care,1
+325081012,SP143,SP14300,213231008,325081012,Hepatorenal syndrome as a complication of care,1
+396394015,J62y,J62y.00,235856003,353559010,Other sequelae of chronic liver disease,1
+353595019,J6130,J613000,235881000,353595019,Alcoholic hepatic failure,1
+5086811000006118,^ESCTFU508681,,235884008,353598017,Fulminant hepatic failure,1
+5086841000006119,^ESCTCH508684,,235886005,353601010,Chronic hepatic failure,1
+2896171000006116,^ESCTBL289617,,24807004,41573017,Bleeding gastric varices,1
+2960631000006115,^ESCTOV296063,,28670008,1216262012,OV - Oesophageal varices,1
+300993011,Gyu94,Gyu9400,28670008,48000018,[X]Oesophageal varices in diseases classified elsewhere,1
+2960621000006118,^ESCTES296062,,28670008,48000018,Esophageal varices,1
+48003016,G85-1,G85..11,28670008,48003016,Oesophageal varices,1
+456800015,G858,G858.00,28670008,48003016,Oesophageal varices NOS,1
+451442010,G8522,G852200,308129003,451442010,Oesophageal varices in cirrhosis of the liver,1
+453265010,G8523,G852300,309783001,453265010,Oesophageal varices in alcoholic cirrhosis of the liver,1
+3059491000006115,^ESCTPH305949,,34742003,1228208015,PHT - Portal hypertension,1
+57989014,J623,J623.00,34742003,57989014,Portal hypertension,1
+7300021000006118,^ESCTSE730002,,444918006,2872221014,Sequela of chronic liver disease,1
+7304981000006110,^ESCTPU730498,,445237003,2968175019,Pulmonary arterial hypertension associated with portal hypertension,1
+7329201000006115,^ESCTEN732920,,446739005,2882444016,Endoscopy of upper gastrointestinal tract and banding of oesophageal varices,1
+7329221000006113,^ESCTOE732922,,446739005,2882517011,Oesophagogastroduodenoscopy and banding of oesophageal varices,1
+7329261000006119,^ESCTBA732926,,446740007,2882519014,Banding of gastric varices,1
+7329361000006112,^ESCTEN732936,,446743009,2882534015,Endoscopy of upper gastrointestinal tract and banding of gastric varices,1
+7329381000006119,^ESCTOE732938,,446743009,2882536018,Oesophagogastroduodenoscopy and banding of gastric varices,1
+7376511000006111,^ESCTHE737651,,449901005,2912505018,Hepatic encephalopathy in fulminant hepatic failure,1
+85441018,J624,J624.00,51292008,85441018,Hepatorenal syndrome,1
+358961000006119,J625,J625.00,59927004,99549014,[X] Hepatic failure,1
+353597010,J62y-1,J62y.11,59927004,99549014,Hepatic failure NOS,1
+99549014,J62y-3,J62y.13,59927004,99549014,Hepatic failure,1
+3566811000006113,^ESCTVE356681,,65617004,109013019,Veno-occlusive disease of the liver,1
+3595991000006116,^ESCTLI359599,,67364009,111954019,Ligation of esophageal varices,1
+737961000006116,76093,7609300,67364009,199882015,Ligation of oesophageal varices,1
+12726301000006115,^ESCT1272630,,675401000000103,1480811000000119,Oesophageal varices NOS,1
+990631000006117,G858-99,G858.99,675401000000103,990631000006117,Oesophageal varices,1
+7763571000006119,^ESCTGA776357,,717865007,3310464017,Gastric varices without bleeding,1
+7837281000006116,^ESCTID783728,,722867009,3333800011,Idiopathic portal hypertension,1
+3691701000006116,^ESCTEN369170,,73282006,502391015,Endoscopic injection of oesophageal varices,1
+8284331000006113,^ESCTFL828433,,843571000000100,2188881000000111,Fluoroscopy guided endoscopic banding of oesophageal varices,1
+14146411000006112,^ESCT1414641,,897004000,4030029017,Oesophageal varices due to cirrhosis of liver,1
+14146421000006116,^ESCT1414642,,897005004,4030032019,Oesophageal varices due to cirrhosis of liver caused by alcohol,1
+15325021000006118,^ESCT1532502,,897005004,5249434013,Oesophageal varices due to alcoholic cirrhosis of liver,1
+150964016,G857,G857.00,91109007,150964016,Gastric varices,1

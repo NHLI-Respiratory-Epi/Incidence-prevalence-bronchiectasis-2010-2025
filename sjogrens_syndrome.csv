@@ -1,0 +1,38 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,sjogrens,jkq_sjogrens,jkq_sjogrens_note
+2419381000000112,43N02,43N0200,1011271000000107,2607441000000119,Serum SSA 60 (Sjogren's syndrome A 60 kiloDalton) (Ro) antibody concentration,1,2,if value availible
+2419391000000114,43N03,43N0300,1011311000000107,2607431000000111,Serum SSA52 (Sjogren's syndrome A 52 kiloDalton) (Ro) antibody concentration,1,2,if value availible
+4193711000006116,^ESCTSJ419371,,111303009,178535015,Sjogren-Larsson syndrome,1,1,
+4193701000006119,^ESCTSJ419370,,111303009,2642195010,Sjögren-Larsson syndrome,1,1,
+222101000000116,PH12-1,PH12.11,111303009,360836011,Sjogren-Larsson's syndrome,1,1,
+4770971000006116,^ESCTMY477097,,193253000,2642291010,Myopathy due to Sjögren's disease,1,1,
+297645018,F3967,F396700,193253000,297645018,Myopathy due to Sjogren's disease,1,1,
+4782461000006113,^ESCTLU478246,,196137000,2642306010,Lung disease with Sjögren's disease,1,1,
+4782481000006115,^ESCTLU478248,,196137000,2839020013,Lung disease with Sjögren disease,1,1,
+301720019,H57y3,H57y300,196137000,301720019,Lung disease with Sjogren's disease,1,1,
+5141111000006119,^ESCTPR514111,,239912009,2642367016,Primary Sjögren's syndrome,1,1,
+5141131000006113,^ESCTPR514113,,239912009,2839489015,Primary Sjögren syndrome,1,1,
+5141121000006110,^ESCTPR514112,,239912009,359473013,Primary Sjogren's syndrome,1,1,
+5141141000006115,^ESCTPR514114,,239913004,2642368014,Primary Sjögren's syndrome with organ/system involvement,1,1,
+5141171000006111,^ESCTPR514117,,239914005,2642361015,Primary Sjögren's syndrome with multisystem involvement,1,1,
+5141201000006110,^ESCTSE514120,,239915006,2642362010,Secondary Sjögren's syndrome,1,1,
+5141221000006117,^ESCTSE514122,,239915006,2842573019,Secondary Sjögren syndrome,1,1,
+5141211000006113,^ESCTSE514121,,239915006,359476017,Secondary Sjogren's syndrome,1,1,
+5141261000006111,^ESCTSE514126,,239917003,2642364011,Secondary Sjögren's syndrome with multisystem involvement,1,1,
+6688201000006114,^ESCTSI668820,,403839008,1782843019,Siccardi syndrome,1,1,
+3212131000006119,^ESCTSS321213,,44212003,2647055019,SS-A - Sjögren's syndrome - A antibody,1,1,
+3252971000006111,^ESCTKE325297,,46622000,2642793014,"Keratoconjunctivitis sicca, not specified as Sjögren's",1,1,
+15100931000006114,^ESCT1510093,,4841000237103,10861000237113,SSA52 (Sjögren's syndrome A 52 kiloDalton) antibody arbitrary concentration in serum,1,2,if value availible
+15124631000006116,^ESCT1512463,,55131000237108,307661000237113,La (SSB - Sjögren's syndrome B) antibody arbitrary concentration in serum,1,2,if value availible
+15102181000006111,^ESCT1510218,,6081000237105,6971000237113,Ro (SSA - Sjögren's syndrome A) antibody arbitrary concentration in serum,1,2,if value availible
+3783931000006119,^ESCTKE378393,,78946008,130997013,"Keratoconjunctivitis sicca, in Sjögren's syndrome",1,1,
+3783951000006114,^ESCTKE378395,,78946008,2839271019,"Keratoconjunctivitis sicca, in Sjögren syndrome",1,1,
+15096971000006119,^ESCT1509697,,791000237101,6561000237114,SSA60 (Sjögren's syndrome A 60 kiloDalton) antibody arbitrary concentration in serum,1,2,if value availible
+133918015,C37z-1,C37z.11,80734006,133918015,Marinesco-Sjogren syndrome,1,1,
+3813051000006112,^ESCTMA381305,,80734006,2642906017,Marinesco-Sjögren syndrome,1,1,
+141091000006112,N002,N002.00,83901003,139128015,Sicca syndrome,1,1,
+3865051000006112,^ESCTSJ386505,,83901003,139129011,Sjögren's disease,1,1,
+3865031000006117,^ESCTSJ386503,,83901003,139130018,Sjögren's syndrome,1,1,
+3865061000006114,^ESCTSJ386506,,83901003,139131019,Sjogren's syndrome,1,1,
+3865071000006119,^ESCTSJ386507,,83901003,2839219010,Sjögren syndrome,1,1,
+3865081000006116,^ESCTSJ386508,,83901003,2920740014,Sjogrens syndrome,1,1,
+8320771000006119,^ESCTSY832077,,905381000000108,2328211000000115,Systemic lupus erythematosus/Sjogren's overlap syndrome,1,1,

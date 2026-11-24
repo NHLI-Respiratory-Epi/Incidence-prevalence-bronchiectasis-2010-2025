@@ -1,0 +1,286 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,metas
+14477311000006115,^ESCT1447731,,1079531000119106,4546407014,Secondary malignant neoplasm of left kidney,1
+14477321000006111,^ESCT1447732,,1079541000119102,4546404019,Secondary malignant neoplasm of right kidney,1
+2731021000000110,^ESCT1171841,,1090081000000106,2731021000000110,Secondary malignant neoplasm of paratracheal lymph nodes,1
+157691000006112,B5610,B561000,1090091000000108,2731041000000115,Secondary malignant neoplasm of internal mammary lymph nodes,1
+157951000006114,B5631,B563100,1090101000000100,2731061000000119,Secondary malignant neoplasm of supratrochlear lymph nodes,1
+157571000006112,B5609,B560900,1090121000000109,2731101000000117,Secondary malignant neoplasm of deep cervical lymph nodes,1
+157491000006114,B5608,B560800,1090131000000106,2731121000000114,Secondary malignant neoplasm of anterior cervical lymph nodes,1
+157921000006117,B5602,B560200,1090141000000102,2731141000000119,Secondary malignant neoplasm of superficial cervical lymph nodes,1
+157961000006111,B5601,B560100,1090151000000104,2731161000000118,Secondary malignant neoplasm of mastoid lymph nodes,1
+157601000006117,B5612,B561200,1090161000000101,2731181000000110,Secondary malignant neoplasm of diaphragmatic lymph nodes,1
+157881000006113,B5653,B565300,1090171000000108,2731201000000114,Secondary malignant neoplasm of sacral lymph nodes,1
+157621000006110,B5651,B565100,1090181000000105,2731221000000117,Secondary malignant neoplasm of inferior epigastric lymph nodes,1
+157551000006119,B5620,B562000,1090191000000107,2731241000000112,Secondary malignant neoplasm of coeliac lymph nodes,1
+157581000006110,B5641,B564100,1090201000000109,2731261000000113,Secondary malignant neoplasm of deep inguinal lymph nodes,1
+157541000006116,B5652,B565200,1090211000000106,2731281000000116,Secondary malignant neoplasm of circumflex iliac lymph nodes,1
+157681000006114,B5650,B565000,1090221000000100,2731301000000115,Secondary malignant neoplasm of internal iliac lymph nodes,1
+14457401000006113,^ESCT1445740,,1155991005,4571172015,Secondary malignant neoplasm of leptomeninges,1
+14486171000006117,^ESCT1448617,,12241031000119108,4546252014,Secondary malignant neoplasm of left breast,1
+9479531000006110,^ESCTSE947953,,12246561000119101,3323163018,Secondary malignant neoplasm of bilateral adrenal glands,1
+14486221000006111,^ESCT1448622,,12246641000119104,4546276018,Bilateral secondary malignant neoplasm of breasts,1
+151421000006117,B58,B58..00,128462008,206784011,Secondary malignant neoplastic disease,1
+406266011,B58y,B58y.00,128462008,206784011,Secondary malignant neoplasm of other specified sites,1
+151401000006110,B58yz,B58yz00,128462008,206784011,Secondary malignant neoplasm of other specified site NOS,1
+289559010,B58z,B58z.00,128462008,206784011,Secondary malignant neoplasm of other specified site NOS,1
+14472801000006111,^ESCT1447280,,145501000119108,4546256012,Secondary malignant neoplasm of breast,1
+14487061000006110,^ESCT1448706,,15930821000119105,4546395010,Bilateral secondary malignant neoplasm of ovaries,1
+9900601000006117,^ESCTSE990060,,16260631000119101,3332150013,Secondary malignant neoplasm of lymph node from neoplasm of female breast,1
+151131000006112,B576,B576.00,188445006,289527015,Secondary malignant neoplasm of retroperitoneum and peritoneum,1
+289538015,B5820,B582000,188454009,289538015,Secondary malignant neoplasm of skin of head,1
+289542017,B5824,B582400,188458007,289542017,Secondary malignant neoplasm of skin of shoulder and arm,1
+289543010,B5825,B582500,188459004,289543010,Secondary malignant neoplasm of skin of hip and leg,1
+289546019,B583,B583.00,188462001,289546019,Secondary malignant neoplasm of brain and spinal cord,1
+289549014,B583z,B583z00,188462001,289546019,Secondary malignant neoplasm of brain or spinal cord NOS,1
+289553011,B58y2,B58y200,188469005,289553011,Secondary malignant neoplasm of cervix uteri,1
+289557012,B58y8,B58y800,188471005,2668736017,Secondary malignant neoplasm of epididymis and vas deferens,1
+151111000006118,B57,B57..00,269473008,403703010,Secondary malignant neoplasm of respiratory and digestive systems,1
+409845013,B594,B594.00,274088005,409845013,Secondary malignant neoplasm of unknown site,1
+8113461000006113,^ESCTSE811346,,353561000119103,3046864012,Secondary malignant neoplasm of right lung,1
+14474611000006116,^ESCT1447461,,353571000119109,4546401010,Secondary malignant neoplasm of right adrenal gland,1
+14474641000006117,^ESCT1447464,,353721000119100,4546398012,Secondary malignant neoplasm of left adrenal gland,1
+8113541000006110,^ESCTSE811354,,353741000119106,3046874010,Secondary malignant neoplasm of left lung,1
+6206321000006114,^ESCTSE620632,,359785002,475128019,Secondary malignant neoplasm of dome of urinary bladder,1
+6325321000006119,^ESCTSE632532,,369488002,491034010,Secondary malignant neoplasm of seminal vesicle,1
+6325821000006110,^ESCTSE632582,,369514009,491060011,Secondary malignant neoplasm of left fallopian tube,1
+6325961000006112,^ESCTSE632596,,369523007,491069012,Secondary malignant neoplasm of left ovary,1
+6326091000006110,^ESCTSE632609,,369530001,491076019,Secondary malignant neoplasm of right ovary,1
+6363991000006111,^ESCTSE636399,,372093008,1210671018,Secondary malignant neoplasm of axillary tail of breast,1
+6632451000006119,^ESCTSE663245,,399969009,1779248010,Secondary malignant neoplasm of blood vessel of upper arm,1
+7373121000006119,^ESCTSE737312,,449632009,2912871018,Secondary malignant neoplasm of lower leg,1
+7373131000006116,^ESCTSE737313,,449633004,2912961016,Secondary malignant neoplasm of upper arm,1
+13603371000006113,^ESCT1360337,,781076008,3744741011,Secondary malignant neoplasm of colon and/or rectum,1
+1815011000006116,B5770,B577000,813671000000107,2121471000000111,Secondary malignant neoplasm of liver and intrahepatic bile duct,1
+13930191000006112,^ESCT1393019,,827186009,3874470014,Secondary malignant neoplasm of skin of hip and skin of lower leg,1
+4029711000006116,^ESCTSE402971,,94158005,155705014,Secondary malignant neoplasm of adenoid,1
+155711012,B587,B587.00,94161006,155711012,Secondary malignant neoplasm of adrenal gland,1
+4029861000006111,^ESCTSE402986,,94164003,155717011,Secondary malignant neoplasm of ampulla of Vater,1
+4030021000006117,^ESCTSE403002,,94172001,155735019,Secondary malignant neoplasm of anus,1
+4030061000006111,^ESCTSE403006,,94175004,155743012,Secondary malignant neoplasm of appendix,1
+4030121000006116,^ESCTSE403012,,94179005,155753013,Secondary malignant neoplasm of ascending colon,1
+4030141000006111,^ESCTSE403014,,94180008,155755018,Secondary malignant neoplasm of axilla,1
+157521000006111,B5630,B563000,94181007,155759012,Secondary malignant neoplasm of axillary lymph nodes,1
+4030181000006117,^ESCTSE403018,,94182000,155761015,Secondary malignant neoplasm of axillary tail of female breast,1
+4030201000006116,^ESCTSE403020,,94183005,155763017,Secondary malignant neoplasm of back,1
+4030221000006114,^ESCTSE403022,,94184004,155767016,Secondary malignant neoplasm of base of tongue,1
+4030241000006119,^ESCTSE403024,,94185003,155769018,Secondary malignant neoplasm of biliary tract,1
+155773015,B5811,B581100,94186002,155773015,Secondary malignant neoplasm of bladder,1
+4030321000006119,^ESCTSE403032,,94187006,155777019,Secondary malignant neoplasm of blood vessel of abdomen,1
+4030761000006114,^ESCTSE403076,,94211009,155831019,Secondary malignant neoplasm of blood vessel,1
+4030781000006116,^ESCTSE403078,,94212002,155835011,Secondary malignant neoplasm of body of pancreas,1
+4030821000006110,^ESCTSE403082,,94214001,155839017,Secondary malignant neoplasm of body of stomach,1
+4030881000006114,^ESCTSE403088,,94217008,155849019,Secondary malignant neoplasm of bone marrow,1
+4030941000006113,^ESCTSE403094,,94219006,155857016,Secondary malignant neoplasm of bone of lower limb,1
+4030961000006112,^ESCTSE403096,,94220000,155861010,Secondary malignant neoplasm of bone of skull,1
+4030981000006119,^ESCTSE403098,,94221001,155865018,Secondary malignant neoplasm of bone of upper limb,1
+1235814012,B585,B585.00,94222008,1235814012,Secondary malignant neoplasm of bone and bone marrow,1
+4031001000006115,^ESCTSE403100,,94222008,155869012,Secondary malignant neoplasm of bone,1
+4031111000006118,^ESCTSE403111,,94224009,155877011,Secondary malignant neoplasm of brain stem,1
+155879014,B5830,B583000,94225005,155879014,Secondary malignant neoplasm of brain,1
+157871000006110,B5619,B561900,94227002,155885019,Secondary malignant neoplasm of bronchopulmonary lymph nodes,1
+4031411000006113,^ESCTSE403141,,94235004,201711012,Secondary malignant neoplasm of caecum,1
+4031571000006117,^ESCTSE403157,,94242004,155919015,Secondary malignant neoplasm of cauda equina,1
+4031591000006116,^ESCTSE403159,,94243009,155921013,Secondary malignant neoplasm of central nervous system,1
+4031641000006114,^ESCTSE403164,,94245002,155927012,Secondary malignant neoplasm of cerebellum,1
+4031661000006113,^ESCTSE403166,,94246001,155931018,Secondary malignant neoplasm of cerebral meninges,1
+4031711000006119,^ESCTSE403171,,94248000,155935010,Secondary malignant neoplasm of cerebrum,1
+4031781000006114,^ESCTSE403178,,94250008,155941015,Secondary malignant neoplasm of cervical vertebral column,1
+4031801000006113,^ESCTSE403180,,94252000,155947016,Secondary malignant neoplasm of cheek,1
+4031821000006115,^ESCTSE403182,,94253005,155951019,Secondary malignant neoplasm of chest wall,1
+4031851000006112,^ESCTSE403185,,94254004,155955011,Secondary malignant neoplasm of choroid,1
+4031991000006114,^ESCTSE403199,,94259009,155965017,Secondary malignant neoplasm of coccyx,1
+155967013,B5750,B575000,94260004,155967013,Secondary malignant neoplasm of colon,1
+4032051000006110,^ESCTSE403205,,94262007,155973014,Secondary malignant neoplasm of common bile duct,1
+4032091000006116,^ESCTSE403209,,94264008,201713010,Secondary malignant neoplasm of soft tissues,1
+4032251000006118,^ESCTSE403225,,94271003,155995013,Secondary malignant neoplasm of descending colon,1
+4032311000006111,^ESCTSE403231,,94274006,156003015,Secondary malignant neoplasm of thoracic vertebral column,1
+156007019,B5740,B574000,94275007,156007019,Secondary malignant neoplasm of duodenum,1
+4032461000006115,^ESCTSE403246,,94280003,156017012,Secondary malignant neoplasm of endocrine gland,1
+4032491000006111,^ESCTSE403249,,94281004,156021017,Secondary malignant neoplasm of endometrium,1
+4032601000006119,^ESCTSE403260,,94285008,156031012,Secondary malignant neoplasm of epitrochlear lymph nodes,1
+4032621000006112,^ESCTSE403262,,94286009,201714016,Secondary malignant neoplasm of oesophagus,1
+4032771000006115,^ESCTSE403277,,94292003,156049012,Secondary malignant neoplasm of eye,1
+4032841000006116,^ESCTSE403284,,94295001,156059013,Secondary malignant neoplasm of fallopian tube,1
+4032901000006112,^ESCTSE403290,,94297009,156065013,Secondary malignant neoplasm of female breast,1
+511250010,B58y0,B58y000,94297009,511250010,Secondary malignant neoplasm of breast,1
+4032951000006111,^ESCTSE403295,,94298004,156069019,Secondary malignant neoplasm of female genital organ,1
+4033001000006116,^ESCTSE403300,,94299007,156073016,Secondary malignant neoplasm of femoral lymph nodes,1
+4033021000006114,^ESCTSE403302,,94300004,156075011,Secondary malignant neoplasm of femur,1
+4033101000006117,^ESCTSE403310,,94304008,156085012,Secondary malignant neoplasm of floor of mouth,1
+4033221000006117,^ESCTSE403322,,94309003,156103018,Secondary malignant neoplasm of frontal lobe,1
+4033281000006118,^ESCTSE403328,,94312000,156109019,Secondary malignant neoplasm of gallbladder,1
+289530010,B57y,B57y.00,94313005,156111011,Secondary malignant neoplasm of gastrointestinal tract,1
+425781000006111,ByuC4,ByuC400,94313005,156111011,Secondary malignant neoplasm of gastrointestinal tract,1
+4033371000006113,^ESCTSE403337,,94315003,156117010,Secondary malignant neoplasm of glans penis,1
+4033571000006118,^ESCTSE403357,,94325008,156143011,Secondary malignant neoplasm of head of pancreas,1
+4033591000006117,^ESCTSE403359,,94326009,156145016,Secondary malignant neoplasm of head,1
+4033611000006111,^ESCTSE403361,,94327000,156149010,Secondary malignant neoplasm of heart,1
+4033671000006119,^ESCTSE403367,,94328005,156153012,Secondary malignant neoplasm of hepatic flexure of colon,1
+4033691000006118,^ESCTSE403369,,94329002,156155017,Secondary malignant neoplasm of hilus of lung,1
+156169017,B5742,B574200,94335002,156169017,Secondary malignant neoplasm of ileum,1
+157561000006117,B5623,B562300,94336001,156171017,Secondary malignant neoplasm of iliac lymph nodes,1
+4033871000006115,^ESCTSE403387,,94337005,156173019,Secondary malignant neoplasm of ilium,1
+157651000006118,B5632,B563200,94338000,156175014,Secondary malignant neoplasm of infraclavicular lymph nodes,1
+4033911000006117,^ESCTSE403391,,94339008,156177018,Secondary malignant neoplasm of inguinal lymph nodes,1
+4033941000006118,^ESCTSE403394,,94340005,156179015,Secondary malignant neoplasm of inguinal region,1
+157671000006111,B5611,B561100,94344001,156191012,Secondary malignant neoplasm of intercostal lymph nodes,1
+4034051000006119,^ESCTSE403405,,94345000,156193010,Secondary malignant neoplasm of intestinal lymph nodes,1
+4034081000006110,^ESCTSE403408,,94346004,156195015,Secondary malignant neoplasm of intestinal tract,1
+4034101000006119,^ESCTSE403410,,94347008,156199014,Secondary malignant neoplasm of intra-abdominal lymph nodes,1
+4034131000006110,^ESCTSE403413,,94348003,156203014,Secondary malignant neoplasm of intra-abdominal organs,1
+4034171000006113,^ESCTSE403417,,94349006,156207010,Secondary malignant neoplasm of intrahepatic bile ducts,1
+4034191000006114,^ESCTSE403419,,94350006,156209013,Secondary malignant neoplasm of intrapelvic lymph nodes,1
+4034221000006119,^ESCTSE403422,,94351005,156213018,Secondary malignant neoplasm of intrathoracic lymph nodes,1
+4034251000006111,^ESCTSE403425,,94352003,156217017,Secondary malignant neoplasm of intrathoracic organs,1
+156231017,B5741,B574100,94357009,156231017,Secondary malignant neoplasm of jejunum,1
+156237018,B580,B580.00,94360002,156237018,Secondary malignant neoplasm of kidney,1
+151321000006111,B575,B575.00,94365007,156249017,Secondary malignant neoplasm of large intestine,1
+4034661000006111,^ESCTSE403466,,94369001,156259016,Secondary malignant neoplasm of laryngeal surface of epiglottis,1
+4034681000006118,^ESCTSE403468,,94370000,156261013,Secondary malignant neoplasm of larynx,1
+4034761000006119,^ESCTSE403476,,94374009,156271010,Secondary malignant neoplasm of lateral wall of urinary bladder,1
+4034781000006112,^ESCTSE403478,,94375005,156273013,Secondary malignant neoplasm of left lower lobe of lung,1
+4034801000006111,^ESCTSE403480,,94376006,156275018,Secondary malignant neoplasm of left upper lobe of lung,1
+151331000006114,B153,B153.00,94381002,156291015,Secondary malignant neoplasm of liver,1
+156291015,B577,B577.00,94381002,156291015,Secondary malignant neoplasm of liver,1
+4034981000006114,^ESCTSE403498,,94383004,156299018,Secondary malignant neoplasm of long bone of upper limb,1
+4035121000006111,^ESCTSE403512,,94389000,156315010,Secondary malignant neoplasm of lumbar vertebral column,1
+156319016,B570,B570.00,94391008,156319016,Secondary malignant neoplasm of lung,1
+406333010,B56,B56..00,94392001,156323012,Secondary malignant neoplasm of lymph node,1
+157801000006116,B5606,B560600,94393006,156327013,Secondary malignant neoplasm of lymph nodes of face,1
+11904321000006119,^ESCT1190432,,94394000,156331019,Secondary malignant neoplasm of lymph nodes of head,1
+4035331000006111,^ESCTSE403533,,94395004,156335011,Secondary malignant neoplasm of lymph nodes of lower limb,1
+359291000006111,ByuC2,ByuC200,94396003,156339017,Secondary malignant neoplasm of lymph nodes of multiple sites,1
+4035401000006112,^ESCTSE403540,,94397007,156341016,Secondary malignant neoplasm of lymph nodes of neck,1
+157501000006118,B563,B563.00,94398002,156345013,Secondary malignant neoplasm of lymph nodes of upper limb,1
+4035481000006115,^ESCTSE403548,,94399005,156349019,Secondary malignant neoplasm of main bronchus,1
+4035501000006113,^ESCTSE403550,,94400003,156351015,Secondary malignant neoplasm of major salivary gland,1
+4035521000006115,^ESCTSE403552,,94401004,156355012,Secondary malignant neoplasm of male breast,1
+4035591000006118,^ESCTSE403559,,94403001,156363013,Secondary malignant neoplasm of mandible,1
+4035631000006118,^ESCTSE403563,,94405008,156367014,Secondary malignant neoplasm of maxilla,1
+4035651000006113,^ESCTSE403565,,94406009,156369012,Secondary malignant neoplasm of maxillary sinus,1
+157481000006111,B5613,B561300,94408005,156373010,Secondary malignant neoplasm of mediastinal lymph nodes,1
+156375015,B571,B571.00,94409002,156375015,Secondary malignant neoplasm of mediastinum,1
+157941000006112,B5621,B562100,94410007,156379014,Secondary malignant neoplasm of mesenteric lymph nodes,1
+157631000006113,B5622,B562200,94410007,156379014,Secondary malignant neoplasm of mesenteric lymph nodes,1
+4035821000006117,^ESCTSE403582,,94411006,156381011,Secondary malignant neoplasm of metacarpal bone,1
+4035841000006112,^ESCTSE403584,,94412004,156383014,Secondary malignant neoplasm of metatarsal bone,1
+4035941000006119,^ESCTSE403594,,94416001,156391017,Secondary malignant neoplasm of mouth,1
+4035981000006113,^ESCTSE403598,,94418000,156397018,Secondary malignant neoplasm of muscle of abdomen,1
+4036001000006112,^ESCTSE403600,,94419008,156399015,Secondary malignant neoplasm of muscle of buttock,1
+4036261000006117,^ESCTSE403626,,94432003,156427014,Secondary malignant neoplasm of muscle,1
+4036351000006113,^ESCTSE403635,,94436000,156437016,Secondary malignant neoplasm of nasal cavity,1
+4036451000006118,^ESCTSE403645,,94441008,156457017,Secondary malignant neoplasm of neck,1
+289550014,B584,B584.00,94442001,156461011,Secondary malignant neoplasm of other part of nervous system,1
+359281000006113,ByuC6,ByuC600,94442001,156461011,Secondary malignant neoplasm of nervous system,1
+4036511000006118,^ESCTSE403651,,94443006,156465019,Secondary malignant neoplasm of nipple of female breast,1
+157791000006117,B5654,B565400,94446003,156473011,Secondary malignant neoplasm of obturator lymph nodes,1
+4036621000006113,^ESCTSE403662,,94448002,156477012,Secondary malignant neoplasm of occipital lobe,1
+157971000006116,B5603,B560300,94449005,156479010,Secondary malignant neoplasm of occipital lymph nodes,1
+4036701000006110,^ESCTSE403670,,94452002,156485015,Secondary malignant neoplasm of optic nerve,1
+4036751000006114,^ESCTSE403675,,94453007,156487011,Secondary malignant neoplasm of orbit,1
+4036811000006116,^ESCTSE403681,,94454001,156489014,Secondary malignant neoplasm of oropharynx,1
+156493015,B586,B586.00,94455000,156493015,Secondary malignant neoplasm of ovary,1
+4037011000006112,^ESCTSE403701,,94459006,156505015,Secondary malignant neoplasm of pancreas,1
+4037071000006115,^ESCTSE403707,,94460001,156509014,Secondary malignant neoplasm of pancreatic duct,1
+4037091000006119,^ESCTSE403709,,94461002,156511017,Secondary malignant neoplasm of para-aortic body,1
+4037111000006111,^ESCTSE403711,,94462009,156513019,Secondary malignant neoplasm of paraganglion,1
+4037191000006118,^ESCTSE403719,,94466007,156523011,Secondary malignant neoplasm of pararectal lymph nodes,1
+4037281000006112,^ESCTSE403728,,94470004,156531018,Secondary malignant neoplasm of parietal bone,1
+4037301000006111,^ESCTSE403730,,94471000,156533015,Secondary malignant neoplasm of parietal lobe,1
+4037341000006113,^ESCTSE403734,,94473002,156537019,Secondary malignant neoplasm of parietal pleura,1
+4037361000006112,^ESCTSE403736,,94474008,156539016,Secondary malignant neoplasm of parotid gland,1
+157821000006114,B5600,B560000,94475009,156541015,Secondary malignant neoplasm of parotid lymph nodes,1
+157591000006113,B5604,B560400,94475009,156541015,Secondary malignant neoplasm of parotid lymph nodes,1
+4037401000006119,^ESCTSE403740,,94476005,156543017,Secondary malignant neoplasm of patella,1
+157841000006119,B5633,B563300,94477001,156545012,Secondary malignant neoplasm of pectoral axillary lymph nodes,1
+4037441000006117,^ESCTSE403744,,94478006,156547016,Secondary malignant neoplasm of pelvic bone,1
+4037461000006118,^ESCTSE403746,,94479003,156551019,Secondary malignant neoplasm of pelvic peritoneum,1
+4037481000006111,^ESCTSE403748,,94480000,156553016,Secondary malignant neoplasm of pelvis,1
+156557015,B58y7,B58y700,94481001,156557015,Secondary malignant neoplasm of penis,1
+4037591000006113,^ESCTSE403759,,94484009,156565017,Secondary malignant neoplasm of pericardium,1
+4037651000006118,^ESCTSE403765,,94487002,156571011,Secondary malignant neoplasm of phalanx of hand,1
+4037671000006111,^ESCTSE403767,,94488007,156573014,Secondary malignant neoplasm of pharynx,1
+4037731000006116,^ESCTSE403773,,94491007,156581010,Secondary malignant neoplasm of pituitary gland,1
+156585018,B572,B572.00,94493005,156585018,Secondary malignant neoplasm of pleura,1
+157851000006117,B5642,B564200,94494004,156589012,Secondary malignant neoplasm of popliteal lymph nodes,1
+4037911000006113,^ESCTSE403791,,94496002,156593018,Secondary malignant neoplasm of posterior hypopharyngeal wall,1
+156607018,B58y5,B58y500,94503003,156607018,Secondary malignant neoplasm of prostate,1
+4038111000006110,^ESCTSE403811,,94504009,156609015,Secondary malignant neoplasm of pubis,1
+4038171000006118,^ESCTSE403817,,94507002,156615015,Secondary malignant neoplasm of pyriform sinus,1
+4038211000006116,^ESCTSE403821,,94509004,156619014,Secondary malignant neoplasm of rectosigmoid junction,1
+156627017,B5751,B575100,94513006,156627017,Secondary malignant neoplasm of rectum,1
+4038331000006119,^ESCTSE403833,,94514000,156629019,Secondary malignant neoplasm of renal pelvis,1
+289515018,B573,B573.00,94515004,156631011,Secondary malignant neoplasm of respiratory tract,1
+425771000006113,ByuC3,ByuC300,94515004,156631011,Secondary malignant neoplasm of respiratory tract,1
+4038471000006112,^ESCTSE403847,,94519005,156641014,Secondary malignant neoplasm of retroperitoneal lymph nodes,1
+4038501000006117,^ESCTSE403850,,94520004,156643012,Secondary malignant neoplasm of retropharyngeal lymph nodes,1
+4038521000006110,^ESCTSE403852,,94521000,156645017,Secondary malignant neoplasm of rib,1
+4038541000006115,^ESCTSE403854,,94522007,156649011,Secondary malignant neoplasm of right lower lobe of lung,1
+4038561000006116,^ESCTSE403856,,94523002,156651010,Secondary malignant neoplasm of right middle lobe of lung,1
+4038581000006114,^ESCTSE403858,,94524008,156653013,Secondary malignant neoplasm of right upper lobe of lung,1
+4038621000006114,^ESCTSE403862,,94526005,156657014,Secondary malignant neoplasm of sacrococcygeal region,1
+4038641000006119,^ESCTSE403864,,94527001,156659012,Secondary malignant neoplasm of sacrum,1
+4038681000006113,^ESCTSE403868,,94529003,156663017,Secondary malignant neoplasm of scapula,1
+4038881000006112,^ESCTSE403888,,94537006,156683016,Secondary malignant neoplasm of shoulder,1
+4038901000006114,^ESCTSE403890,,94538001,156687015,Secondary malignant neoplasm of sigmoid colon,1
+4038961000006110,^ESCTSE403896,,94542003,156695016,Secondary malignant neoplasm of skin of axilla,1
+4038981000006117,^ESCTSE403898,,94543008,156697012,Secondary malignant neoplasm of skin of back,1
+156699010,B5826,B582600,94544002,156699010,Secondary malignant neoplasm of skin of breast,1
+4039121000006113,^ESCTSE403912,,94550007,156711015,Secondary malignant neoplasm of skin of elbow,1
+4039181000006112,^ESCTSE403918,,94553009,156717016,Secondary malignant neoplasm of skin of eyelid,1
+156719018,B5821,B582100,94554003,156719018,Secondary malignant neoplasm of skin of face,1
+4039301000006117,^ESCTSE403930,,94559008,156731016,Secondary malignant neoplasm of skin of groin,1
+156747019,B5822,B582200,94566009,156747019,Secondary malignant neoplasm of skin of neck,1
+4039441000006111,^ESCTSE403944,,94567000,156749016,Secondary malignant neoplasm of skin of nose,1
+4039501000006110,^ESCTSE403950,,94570001,156755014,Secondary malignant neoplasm of skin of scalp,1
+156765015,B5823,B582300,94575006,156765015,Secondary malignant neoplasm of skin of trunk,1
+4039621000006118,^ESCTSE403962,,94576007,156769014,Secondary malignant neoplasm of skin of umbilicus,1
+156777013,B582,B582.00,94579000,156777013,Secondary malignant neoplasm of skin,1
+289545015,B582z,B582z00,94579000,156777013,Secondary malignant neoplasm of skin NOS,1
+151621000006119,B574,B574.00,94580002,156781013,Secondary malignant neoplasm of small intestine,1
+4039831000006116,^ESCTSE403983,,94582005,156787012,Secondary malignant neoplasm of soft tissues of abdomen,1
+4039931000006114,^ESCTSE403993,,94587004,156797015,Secondary malignant neoplasm of soft tissues of hip,1
+4039951000006119,^ESCTSE403995,,94588009,156799017,Secondary malignant neoplasm of soft tissues of inguinal region,1
+4040011000006114,^ESCTSE404001,,94591009,156805011,Secondary malignant neoplasm of soft tissues of pelvis,1
+4040081000006119,^ESCTSE404008,,94594001,156811014,Secondary malignant neoplasm of soft tissues of thorax,1
+4040231000006113,^ESCTSE404023,,94600009,156825010,Secondary malignant neoplasm of spinal cord,1
+4040261000006116,^ESCTSE404026,,94601008,156827019,Secondary malignant neoplasm of spinal meninges,1
+4040291000006112,^ESCTSE404029,,94602001,156829016,Secondary malignant neoplasm of vertebral column,1
+4040301000006113,^ESCTSE404030,,94602001,156834017,Secondary malignant neoplasm of spine,1
+4040401000006116,^ESCTSE404040,,94603006,156837012,Secondary malignant neoplasm of spleen,1
+4040451000006117,^ESCTSE404045,,94604000,156839010,Secondary malignant neoplasm of splenic flexure of colon,1
+4040471000006110,^ESCTSE404047,,94605004,156841011,Secondary malignant neoplasm of sternum,1
+4040491000006111,^ESCTSE404049,,94606003,156843014,Secondary malignant neoplasm of stomach,1
+157891000006111,B5605,B560500,94609005,156851012,Secondary malignant neoplasm of submandibular lymph nodes,1
+157901000006110,B5607,B560700,94611001,156855015,Secondary malignant neoplasm of submental lymph nodes,1
+157931000006119,B5640,B564000,94612008,156857011,Secondary malignant neoplasm of superficial inguinal lymph nodes,1
+4040661000006118,^ESCTSE404066,,94614009,156861017,Secondary malignant neoplasm of supraclavicular lymph nodes,1
+4040681000006111,^ESCTSE404068,,94615005,156863019,Secondary malignant neoplasm of supraclavicular region,1
+4040741000006111,^ESCTSE404074,,94618007,156871015,Secondary malignant neoplasm of tail of pancreas,1
+4040801000006118,^ESCTSE404080,,94621009,156879018,Secondary malignant neoplasm of temporal bone,1
+156883018,B58y6,B58y600,94623007,156883018,Secondary malignant neoplasm of testis,1
+4040891000006113,^ESCTSE404089,,94624001,156887017,Secondary malignant neoplasm of the mesentery,1
+4040911000006110,^ESCTSE404091,,94625000,156889019,Secondary malignant neoplasm of the mesocolon,1
+4040931000006116,^ESCTSE404093,,94626004,3037929013,Secondary malignant neoplasm of omentum,1
+1235875018,B5761,B576100,94627008,1235875018,Secondary malignant neoplasm of peritoneum,1
+1215809015,B5760,B576000,94628003,1215809015,Secondary malignant neoplasm of retroperitoneum,1
+4041061000006115,^ESCTSE404106,,94628003,156897014,Secondary malignant neoplasm of the retroperitoneum,1
+4041251000006114,^ESCTSE404125,,94634005,156911010,Secondary malignant neoplasm of thyroid gland,1
+4041291000006115,^ESCTSE404129,,94635006,156913013,Secondary malignant neoplasm of tibia,1
+156919012,B58y9,B58y900,94638008,156919012,Secondary malignant neoplasm of tongue,1
+4041421000006118,^ESCTSE404142,,94641004,156927015,Secondary malignant neoplasm of trachea,1
+157911000006113,B5616,B561600,94642006,156931014,Secondary malignant neoplasm of tracheobronchial lymph nodes,1
+157641000006115,B5617,B561700,94642006,156931014,Secondary malignant neoplasm of tracheobronchial lymph nodes,1
+4041511000006110,^ESCTSE404151,,94643001,156933012,Secondary malignant neoplasm of transverse colon,1
+156973018,B5810,B581000,94659001,156973018,Secondary malignant neoplasm of ureter,1
+4041921000006113,^ESCTSE404192,,94660006,156975013,Secondary malignant neoplasm of ureteric orifice of urinary bladder,1
+156977017,B5812,B581200,94661005,156977017,Secondary malignant neoplasm of urethra,1
+289535017,B581,B581.00,94663008,156981017,Secondary malignant neoplasm of other urinary organs,1
+289536016,B581z,B581z00,94663008,156981017,Secondary malignant neoplasm of other urinary organ NOS,1
+359271000006110,ByuC5,ByuC500,94663008,156981017,Secondary malignant neoplasm of urinary system,1
+156989015,B58y1,B58y100,94665001,156989015,Secondary malignant neoplasm of uterus,1
+4042111000006114,^ESCTSE404211,,94666000,156993014,Secondary malignant neoplasm of uveal tract,1
+156997010,B58y3,B58y300,94668004,156997010,Secondary malignant neoplasm of vagina,1
+4042411000006119,^ESCTSE404241,,94679009,157021011,Secondary malignant neoplasm of vocal cord,1
+157025019,B58y4,B58y400,94681006,157025019,Secondary malignant neoplasm of vulva,1
+4042491000006112,^ESCTSE404249,,94682004,157029013,Secondary malignant neoplasm of Waldeyer's ring,1

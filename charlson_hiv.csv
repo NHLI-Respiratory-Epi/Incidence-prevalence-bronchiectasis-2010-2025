@@ -1,0 +1,54 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,hiv
+14155301000006113,^ESCT1415530,,1003679009,4165167013,Human immunodeficiency virus Centers for Disease Control and Prevention dual infection with HIV-1 and HIV-2,1
+1924211000006112,4J3P,4J3P.00,1007761000000101,2551581000000119,Human immunodeficiency virus type 1 subtype identification,1
+2393891000000111,4J3Q,4J3Q.00,1007841000000109,2561671000000111,Human immunodeficiency virus IgG avidity,1
+4200801000006118,^ESCTAC420080,,111880001,365852011,Acute human immunodeficiency virus seroconversion illness,1
+4200811000006115,^ESCTAC420081,,111880001,365853018,Acute human immunodeficiency virus infection,1
+14426271000006116,^ESCT1442627,,1142045004,4536480012,Primary human immunodeficiency virus infection,1
+317670010,R109,R109.00,165816005,257855012,[D]Laboratory evidence of human immunodeficiency virus [HIV],1
+4596341000006119,^ESCTHU459634,,165816005,2619097010,Human immunodeficiency virus (HIV) positive,1
+4596351000006117,^ESCTHU459635,,165816005,2914375017,Human immunodeficiency virus positive,1
+829181000006115,A7883,A788300,186706006,287010012,Human immunodeficiency virus with constitutional disease,1
+4742821000006114,^ESCTHU474282,,186706006,287010012,Human immunodeficiency virus infection constitutional disease,1
+4742831000006112,^ESCTHI474283,,186706006,287011011,HIV - Human immunodeficiency virus infection constitutional disease,1
+4742841000006119,^ESCTHU474284,,186707002,2817187010,Human immunodeficiency virus infection with neurological disease,1
+287012016,A7884,A788400,186707002,287012016,Human immunodeficiency virus with neurological disease,1
+829221000006112,A7885,A788500,186708007,287013014,Human immunodeficiency virus infection with secondary clinical infectious disease,1
+2802051000006111,^ESCTHI280205,,19030005,1222224010,HIV - Human immunodeficiency virus,1
+2802021000006119,^ESCTHU280202,,19030005,32076019,Human immunodeficiency virus,1
+5009931000006112,^ESCTNE500993,,230598008,3295263018,Neuropathy caused by human immunodeficiency virus,1
+5009881000006118,^ESCTNE500988,,230598008,345522015,Neuropathy due to human immunodeficiency virus,1
+5084691000006117,^ESCTHI508469,,235726002,353371015,HIV - Human immunodeficiency virus enteropathy,1
+3082061000006116,^ESCTHU308206,,36115006,60267017,Human immunodeficiency virus type 2,1
+6592361000006110,^ESCTHU659236,,397763006,3028943012,Human immunodeficiency virus encephalopathy,1
+6601991000006118,^ESCTHU660199,,398329009,3028930012,Human immunodeficiency virus encephalitis,1
+3156721000006114,^ESCTHU315672,,40780007,68021013,Human immunodeficiency virus I infection,1
+337231000006117,ZV01A,ZV01A00,427921000000108,938141000000118,[V]Asymptomatic human immunodeficiency virus infection status,1
+7260251000006113,^ESCTHE726025,,442134007,2819115019,Hepatitis B associated with Human immunodeficiency virus infection,1
+825721000006115,A7897,A789700,442537007,2816358010,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,1
+338061000006119,ZV019,ZV01900,444356002,2840343019,Exposure to Human immunodeficiency virus,1
+15119391000006115,^ESCT1511939,,45091000237108,79451000237110,HIV (human immunodeficiency virus) RNA/HIV (human immunodeficiency virus) DNA number ratio in plasma,1
+3515791000006119,^ESCTIM351579,,62479008,499300019,Immunodeficiency due to human immunodeficiency virus infection,1
+7701991000006114,^ESCTNE770199,,713278001,3288653018,Neuralgia co-occurrent with human immunodeficiency virus infection,1
+287014015,A7886,A788600,713572001,3290189011,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,1
+288185010,AyuC8,AyuC800,713572001,3290189011,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,1
+7708381000006118,^ESCTCY770838,,713722001,3297576012,Cytomegalovirus infection co-occurrent with human immunodeficiency virus infection,1
+7710381000006117,^ESCTDE771038,,713844000,3297772011,Dementia co-occurrent with human immunodeficiency virus infection,1
+287029018,A7896,A789600,713897006,3297968018,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,1
+7787831000006111,^ESCTIN778783,,719522009,3316678015,Infection of upper respiratory tract caused by Candida co-occurrent with human immunodeficiency virus infection,1
+8223151000006111,^ESCTPE822315,,721951000000103,1578891000000114,People with human immunodeficiency virus or acquired immune deficiency syndrome,1
+8022731000006117,^ESCTHU802273,,72621000119104,3023120018,Human immunodeficiency virus,1
+3785171000006118,^ESCTHU378517,,79019005,131125015,Human immunodeficiency virus II infection,1
+287022010,A789,A789.00,81000119104,2967570018,Symptomatic human immunodeficiency virus infection,1
+13944061000006113,^ESCT1394406,,840498003,3977846012,Encephalitis caused by human immunodeficiency virus type 1,1
+3904981000006111,^ESCTHI390498,,86406008,1235134011,HIV - Human immunodeficiency virus infection,1
+143288017,A788-1,A788.11,86406008,143288017,Human immunodeficiency virus infection,1
+287020019,A788y,A788y00,86406008,143288017,Human immunodeficiency virus with other clinical findings,1
+287021015,A788z,A788z00,86406008,143288017,Acquired human immunodeficiency virus infection syndrome NOS,1
+288173019,AyuC,AyuC.00,86406008,143288017,[X]Human immunodeficiency virus disease,1
+288191012,AyuCD,AyuCD00,86406008,143288017,[X]Unspecified human immunodeficiency virus [HIV] disease,1
+13964421000006117,^ESCT1396442,,870328002,3968922018,Human immunodeficiency virus infection associated papular pruritic eruption,1
+3951391000006115,^ESCTHU395139,,89293008,148068010,Human immunodeficiency virus type I,1
+152322017,A7881,A788100,91947003,152322017,Asymptomatic human immunodeficiency virus infection,1
+389001000006116,AyuCB,AyuCB00,943041000000105,2412691000000112,HIV (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities,1
+825871000006111,A7882,A788200,95892003,512343012,Human immunodeficiency virus infection with persistent generalised lymphadenopathy,1

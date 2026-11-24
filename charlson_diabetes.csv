@@ -1,0 +1,44 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,diabetes
+292466013,C100,C100.00,111552007,178796018,Diabetes mellitus without complication,1
+746791000006111,C108A,C108A00,111552007,178796018,Insulin-dependent diabetes without complication,1
+457327017,C10EA-2,C10EA12,111552007,178796018,Insulin-dependent diabetes without complication,1
+8037841000006115,^ESCTHY803784,,120731000119103,3011938013,Hypoglycaemia due to type 2 diabetes mellitus,1
+840971000006112,C10D,C10D.00,237604008,356082013,Diabetes mellitus autosomal dominant type II,1
+14073071000006111,^ESCT1407307,,237621004,3866616016,Severe hyperglycaemia due to diabetes mellitus,1
+14073091000006112,^ESCT1407309,,237633009,3873414017,Hypoglycaemia due to diabetes mellitus,1
+14073101000006118,^ESCT1407310,,237635002,3874275018,Nocturnal hypoglycaemia due to diabetes mellitus,1
+84831000006115,C108A-1,C108A11,313435000,457325013,Type I diabetes mellitus without complication,1
+457325013,C10EA-1,C10EA11,313435000,457325013,Type I diabetes mellitus without complication,1
+616621000006115,C1000,C100000,313435000,457326014,Type 1 diabetes mellitus without complication,1
+84461000006114,C108A-2,C108A12,313435000,457326014,Type 1 diabetes mellitus without complication,1
+457326014,C10EA,C10EA00,313435000,457326014,Type 1 diabetes mellitus without complication,1
+6030001000006116,^ESCTIN603000,,313435000,457327017,Insulin-dependent diabetes without complication,1
+457328010,C1099,C109900,313436004,457328010,Non-insulin-dependent diabetes mellitus without complication,1
+84641000006112,C1099-2,C109912,313436004,457329019,Type 2 diabetes mellitus without complication,1
+457329019,C10F9,C10F900,313436004,457329019,Type 2 diabetes mellitus without complication,1
+85011000006119,C1099-1,C109911,313436004,457330012,Type II diabetes mellitus without complication,1
+457330012,C10F9-1,C10F911,313436004,457330012,Type II diabetes mellitus without complication,1
+8119331000006114,^ESCTHY811933,,367991000119101,3285563015,Hyperglycaemia due to type 1 diabetes mellitus,1
+8119461000006111,^ESCTHY811946,,368051000119109,3285562013,Hyperglycemia due to type 2 diabetes mellitus,1
+8119451000006114,^ESCTHY811945,,368051000119109,3285573018,Hyperglycaemia due to type 2 diabetes mellitus,1
+967631000006115,C10H0,C10H000,413183008,2474729016,Diabetes mellitus induced by non-steroid drugs without complication,1
+84471000006119,C109-2,C109.12,44054006,197761014,Type 2 diabetes mellitus,1
+197761014,C10F,C10F.00,44054006,197761014,Type 2 diabetes mellitus,1
+3209441000006114,^ESCTDI320944,,44054006,197763012,Diabetes mellitus type 2,1
+84841000006113,C109-3,C109.13,44054006,493774016,Type II diabetes mellitus,1
+493774016,C10F-1,C10F.11,44054006,493774016,Type II diabetes mellitus,1
+3209431000006116,^ESCTDI320943,,44054006,73465010,Diabetes mellitus type II,1
+281171000006119,C1097,C109700,443694000,2842387018,Type II diabetes mellitus uncontrolled,1
+7281511000006118,^ESCTTY728151,,443694000,3321322011,Type 2 diabetes mellitus uncontrolled,1
+7287621000006117,^ESCTTY728762,,444073006,2842075017,Type I diabetes mellitus uncontrolled,1
+7287611000006113,^ESCTTY728761,,444073006,2967763015,Type 1 diabetes mellitus uncontrolled,1
+84281000006115,C108-2,C108.12,46635009,197984010,Type 1 diabetes mellitus,1
+197984010,C10E,C10E.00,46635009,197984010,Type 1 diabetes mellitus,1
+3253241000006117,^ESCTDI325324,,46635009,197985011,Diabetes mellitus type 1,1
+84651000006114,C108-3,C108.13,46635009,494564012,Type I diabetes mellitus,1
+494564012,C10E-1,C10E.11,46635009,494564012,Type I diabetes mellitus,1
+3253231000006110,^ESCTDI325323,,46635009,77728011,Diabetes mellitus type I,1
+881451000006113,C1001-99,C100199,532411000000102,881451000006113,Diabetes mellitus -adult onset,1
+121589010,C10,C10..00,73211009,121589010,Diabetes mellitus,1
+881441000006111,C1000-99,C100099,73211009,881441000006111,Diabetes mellitus - juvenile,1
+13927701000006116,^ESCT1392770,,822995009,3866631013,Hyperglycaemia due to diabetes mellitus,1

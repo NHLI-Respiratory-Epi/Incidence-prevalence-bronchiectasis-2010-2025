@@ -1,0 +1,228 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,renal
+8032721000006117,^ESCTCH803272,,104931000119100,2983529012,Chronic kidney disease due to hypertension,1
+4125971000006115,^ESCTME412597,,106000008,170419012,Metabolic renal disease,1
+8035251000006111,^ESCTEN803525,,111411000119103,3288969010,End stage renal disease due to hypertension,1
+8035261000006113,^ESCTES803526,,111411000119103,3289001017,ESRD (End stage renal disease) due to hypertension,1
+4195721000006113,^ESCTHY419572,,111438007,178680012,Hypertension secondary to renal disease in obstetric context,1
+14433091000006115,^ESCT1443309,,1144916002,4546169018,Soft tissue calcification due to chronic kidney disease,1
+14443411000006116,^ESCT1444341,,1148928001,4553099014,Hypocalcaemia due to chronic kidney disease,1
+8036941000006111,^ESCTCH803694,,117681000119102,2968242019,Chronic kidney disease stage 1 due to hypertension,1
+293759015,Cyu23,Cyu2300,127013003,301016,Diabetic renal disease,1
+8040661000006119,^ESCTCH804066,,129151000119102,2968350014,Chronic kidney disease stage 4 due to hypertension,1
+8040671000006114,^ESCTCH804067,,129161000119100,2968176018,Chronic kidney disease stage 5 due to hypertension,1
+8040681000006112,^ESCTCH804068,,129171000119106,2968262010,Chronic kidney disease stage 3 due to hypertension,1
+8040691000006110,^ESCTCH804069,,129181000119109,2968276011,Chronic kidney disease stage 2 due to hypertension,1
+2732241000006113,^ESCTAC273224,,14669001,24910011,Acute renal failure syndrome,1
+8048001000006110,^ESCTEN804800,,153891000119101,2984564011,End stage renal disease on dialysis due to hypertension,1
+28321015,K080,K080.00,16726004,28321015,Renal osteodystrophy,1
+303948016,K080z,K080z00,16726004,28321015,Renal osteodystrophy NOS,1
+1823941000006114,EMISNQCH103,,1823941000006105,1823941000006114,Chronic kidney disease confirmed,1
+1409014,G221,G221.00,193003,1409014,Benign hypertensive renal disease,1
+299673010,G233,G233.00,194780003,299673010,Hypertensive heart and renal disease with renal failure,1
+789941000006117,G234,G234.00,194781004,299674016,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,1
+303826014,K011,K011.00,197590001,303826014,Nephrotic syndrome with membranous glomerulonephritis,1
+303834015,K016,K016.00,197595006,303834015,"Nephrotic syndrome, diffuse membranous glomerulonephritis",1
+677461000006115,K017,K017.00,197596007,303835019,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",1
+677471000006110,K019,K019.00,197598008,303837010,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",1
+354347017,K032y-3,K032y13,197613008,303860019,Chronic mesangial proliferative glomerulonephritis,1
+4788491000006115,^ESCTPG478849,,197613008,303860019,PGN - Chronic mesangial proliferative glomerulonephritis,1
+553181000006118,K0A33,K0A3300,197613008,303861015,"Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",1
+556211000006112,K020,K020.00,197613008,303862010,Chronic proliferative glomerulonephritis,1
+12704531000006115,^ESCT1270453,,197613008,303862010,Chronic mesangial proliferative glomerulonephritis,1
+554481000006111,K02y0,K02y000,197616000,303865012,Chronic glomerulonephritis + diseases EC,1
+303866013,K02y1,K02y100,197617009,303866013,Chronic exudative glomerulonephritis,1
+303867016,K02y2,K02y200,197618004,303867016,Chronic focal glomerulonephritis,1
+303868014,K02y3,K02y300,197619007,303868014,Chronic diffuse glomerulonephritis,1
+305162014,Kyu07,Kyu0700,197679002,303967017,"[X]Rapidly progressive nephritic syndrome, other",1
+303969019,K0A00,K0A0000,197681000,303969019,"Acute nephritic syndrome, minor glomerular abnormality",1
+458481000006111,K0A01,K0A0100,197682007,303970018,"Acute nephritic syndrome, focal and segmental glomerular lesions",1
+458451000006115,K0A02,K0A0200,197683002,303971019,"Acute nephritic syndrome, diffuse membranous glomerulonephritis",1
+455321000006114,K0A03,K0A0300,197684008,303972014,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",1
+440031000006117,K0A04,K0A0400,197685009,303973016,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",1
+458441000006117,K0A05,K0A0500,197686005,303974010,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",1
+303975011,K0A06,K0A0600,197687001,303975011,"Acute nephritic syndrome, dense deposit disease",1
+458521000006111,K0A07,K0A0700,197688006,303976012,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",1
+303977015,K0A1,K0A1.00,197689003,303977015,Rapidly progressive nephritic syndrome,1
+191871000006114,K0A10,K0A1000,197690007,303978013,"Rapidly progressive nephritic syndrome, minor glomerular abnormality",1
+191891000006110,K0A11,K0A1100,197691006,303979017,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",1
+191861000006119,K0A12,K0A1200,197692004,303980019,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",1
+165061000006114,K0A13,K0A1300,197693009,303981015,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",1
+191851000006116,K0A14,K0A1400,197694003,303982010,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",1
+191841000006118,K0A15,K0A1500,197695002,303983017,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",1
+191901000006114,K0A16,K0A1600,197696001,303984011,"Rapidly progressive nephritic syndrome, dense deposit disease",1
+191881000006112,K0A17,K0A1700,197697005,303985012,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",1
+304004016,K0A3,K0A3.00,197707007,304004016,Chronic nephritic syndrome,1
+304005015,K0A30,K0A3000,197708002,304005015,"Chronic nephritic syndrome, minor glomerular abnormality",1
+555391000006117,K0A31,K0A3100,197709005,304006019,"Chronic nephritic syndrome, focal and segmental glomerular lesions",1
+553191000006115,K0A34,K0A3400,197712008,304009014,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",1
+555371000006118,K0A35,K0A3500,197713003,304010016,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",1
+304011017,K0A36,K0A3600,197714009,304011017,"Chronic nephritic syndrome, dense deposit disease",1
+555381000006115,K0A37,K0A3700,197715005,304012012,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",1
+4827551000006116,^ESCTFA482755,,204958008,314292011,Familial juvenile medullary cystic kidney disease,1
+35171019,K02,K02..00,20917003,35171019,Chronic glomerulonephritis,1
+303864011,K02y,K02y.00,20917003,35171019,Other chronic glomerulonephritis,1
+303869018,K02yz,K02yz00,20917003,35171019,Other chronic glomerulonephritis NOS,1
+303870017,K02z,K02z.00,20917003,35171019,Chronic glomerulonephritis NOS,1
+303863017,K023,K023.00,236392004,354352010,Chronic rapidly progressive glomerulonephritis,1
+5093831000006119,^ESCTME509383,,236413007,354388017,Membranous glomerulonephritis - stage I,1
+5093851000006114,^ESCTME509385,,236414001,354391017,Membranous glomerulonephritis - stage II,1
+5093891000006115,^ESCTME509389,,236416004,354395014,Membranous glomerulonephritis - stage IV,1
+5093911000006118,^ESCTME509391,,236417008,354396010,Membranous glomerulonephritis stage V,1
+5094141000006118,^ESCTAC509414,,236433006,3037716017,Acute on chronic renal failure,1
+354417015,K0E,K0E..00,236433006,354417015,Acute-on-chronic renal failure,1
+315750010,Pyu70,Pyu7000,236439005,3037469017,Cystic kidney disease,1
+354537019,K13C,K13C.00,236519008,354537019,Chronic drug-induced renal disease,1
+12716071000006117,^ESCT1271607,,249311000000109,408661000000117,Predicted stage chronic kidney disease,1
+5335401000006115,^ESCTPK533540,,253878003,377979011,PKD1 - Polycystic kidney disease 1,1
+5335421000006113,^ESCTPK533542,,253879006,377980014,PKD2 - Polycystic kidney disease 2,1
+400871016,PD1y0,PD1y000,268234004,400871016,Fibrocystic kidney disease,1
+176771000006119,SK05,SK05.00,269257004,403057012,Renal failure following crush syndrome,1
+8013961000006110,^ESCTCH801396,,28191000119109,3078564018,Chronic nephritic syndrome with membranous glomerulonephritis,1
+8087051000006119,^ESCTCH808705,,284971000119100,3040949015,Chronic kidney disease stage 1 due to benign hypertension,1
+8087071000006112,^ESCTCH808707,,284991000119104,3040933017,Chronic kidney disease stage 3 due to benign hypertension,1
+8087091000006113,^ESCTCH808709,,285011000119108,3040952011,Chronic kidney disease stage 5 due to benign hypertension,1
+8087641000006112,^ESCTMA808764,,285831000119108,2922212010,Malignant hypertensive chronic kidney disease,1
+8087661000006111,^ESCTMA808766,,285851000119102,2922173018,Malignant hypertensive chronic kidney disease stage 1,1
+8087691000006115,^ESCTMA808769,,285871000119106,2922170015,Malignant hypertensive chronic kidney disease stage 3,1
+8087701000006115,^ESCTMA808770,,285881000119109,2922631010,Malignant hypertensive chronic kidney disease stage 4,1
+3013481000006111,^ESCTCA301348,,31881008,53259014,Cardiovascular renal disease,1
+595541000000119,1Z17,1Z17.00,324121000000109,595541000000119,Chronic kidney disease stage 1 with proteinuria,1
+595601000000118,1Z18,1Z18.00,324151000000104,595601000000118,Chronic kidney disease stage 1 without proteinuria,1
+8104161000006117,^ESCTCK810416,,324181000000105,1677031000000110,CKD (chronic kidney disease) stage 2 with proteinuria,1
+595661000000119,1Z19,1Z19.00,324181000000105,595661000000119,Chronic kidney disease stage 2 with proteinuria,1
+595721000000116,1Z1A,1Z1A.00,324211000000106,595721000000116,Chronic kidney disease stage 2 without proteinuria,1
+8104231000006115,^ESCTCK810423,,324251000000105,1676871000000115,CKD (chronic kidney disease) stage 3 with proteinuria,1
+595811000000117,1Z1B,1Z1B.00,324251000000105,595811000000117,Chronic kidney disease stage 3 with proteinuria,1
+8104261000006112,^ESCTCK810426,,324281000000104,1676861000000110,CKD (chronic kidney disease) stage 3 without proteinuria,1
+595871000000110,1Z1C,1Z1C.00,324281000000104,595871000000110,Chronic kidney disease stage 3 without proteinuria,1
+8104301000006115,^ESCTCK810430,,324311000000101,1692921000000118,CKD (chronic kidney disease) stage 3A with proteinuria,1
+595931000000116,1Z1D,1Z1D.00,324311000000101,595931000000116,Chronic kidney disease stage 3A with proteinuria,1
+595991000000115,1Z1E,1Z1E.00,324341000000100,595991000000115,Chronic kidney disease stage 3A without proteinuria,1
+8104381000006112,^ESCTCK810438,,324371000000106,1692941000000113,CKD (chronic kidney disease) stage 3B with proteinuria,1
+596051000000115,1Z1F,1Z1F.00,324371000000106,596051000000115,Chronic kidney disease stage 3B with proteinuria,1
+596131000000114,1Z1G,1Z1G.00,324411000000105,596131000000114,Chronic kidney disease stage 3B without proteinuria,1
+8104451000006111,^ESCTCK810445,,324441000000106,1693001000000116,CKD (chronic kidney disease) stage 4 with proteinuria,1
+596191000000110,1Z1H,1Z1H.00,324441000000106,596191000000110,Chronic kidney disease stage 4 with proteinuria,1
+8104481000006115,^ESCTCK810448,,324471000000100,1693051000000115,CKD (chronic kidney disease) stage 4 without proteinuria,1
+596261000000111,1Z1J,1Z1J.00,324471000000100,596261000000111,Chronic kidney disease stage 4 without proteinuria,1
+8104511000006111,^ESCTCK810451,,324501000000107,1693061000000117,CKD (chronic kidney disease) stage 5 with proteinuria,1
+596321000000110,1Z1K,1Z1K.00,324501000000107,596321000000110,Chronic kidney disease stage 5 with proteinuria,1
+8104551000006112,^ESCTCK810455,,324541000000105,1692911000000112,CKD (chronic kidney disease) stage 5 without proteinuria,1
+596401000000111,1Z1L,1Z1L.00,324541000000105,596401000000111,Chronic kidney disease stage 5 without proteinuria,1
+3038761000006114,^ESCTRE303876,,33489005,55883010,Renal disease diet,1
+3072641000006116,^ESCTME307264,,35546006,59308019,Mesangial proliferative glomerulonephritis,1
+8118531000006114,^ESCTHE811853,,367551000119100,3012584012,Hereditary diffuse mesangial proliferative glomerulonephritis,1
+430091000006117,Kyu0A,Kyu0A00,3704008,7243014,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",1
+11777411000006113,^ESCT1177741,,38481006,3512257015,Renal disease due to hypertension,1
+64282015,G22,G22..00,38481006,64282015,Hypertensive renal disease,1
+395753015,G22z,G22z.00,38481006,64282015,Hypertensive renal disease NOS,1
+3147311000006115,^ESCTNE314731,,40233000,63585010,Nephrotic-nephritic syndrome,1
+3183501000006111,^ESCTRE318350,,42399005,70742017,Renal failure syndrome,1
+7043231000006112,^ESCTCH704323,,425369003,2645799018,Chronic progressive renal failure,1
+7095851000006114,^ESCTDE709585,,428937001,2692026019,Dependence on peritoneal dialysis due to end stage renal disease,1
+7096531000006112,^ESCTDE709653,,428982002,2693614019,Dependence on hemodialysis due to end stage renal disease,1
+7096521000006114,^ESCTDE709652,,428982002,2694168017,Dependence on haemodialysis due to end stage renal disease,1
+7097941000006112,^ESCTDE709794,,429075005,2694500017,Dependence on dialysis due to end stage renal disease,1
+304031000000117,1Z10,1Z10.00,431855005,2767383018,Chronic kidney disease stage 1,1
+2767383018,K051,K051.00,431855005,2767383018,Chronic kidney disease stage 1,1
+304051000000112,1Z11,1Z11.00,431856006,2767384012,Chronic kidney disease stage 2,1
+2767384012,K052,K052.00,431856006,2767384012,Chronic kidney disease stage 2,1
+304091000000116,1Z13,1Z13.00,431857002,2767385013,Chronic kidney disease stage 4,1
+2767385013,K054,K054.00,431857002,2767385013,Chronic kidney disease stage 4,1
+304071000000115,1Z12,1Z12.00,433144002,2773184015,Chronic kidney disease stage 3,1
+2773184015,K053,K053.00,433144002,2773184015,Chronic kidney disease stage 3,1
+304111000000114,1Z14,1Z14.00,433146000,2767154014,Chronic kidney disease stage 5,1
+2767154014,K055,K055.00,433146000,2767154014,Chronic kidney disease stage 5,1
+3245861000006116,^ESCTES324586,,46177005,1230315018,ESCRF - End stage chronic renal failure,1
+3245871000006111,^ESCTES324587,,46177005,1230316017,ESRD - End stage renal disease,1
+3245881000006114,^ESCTEN324588,,46177005,2647096016,End stage chronic renal failure,1
+12704471000006116,^ESCT1270447,,46177005,3517959016,End-stage renal disease,1
+215521000000116,K050,K050.00,46177005,76995019,End stage renal disease,1
+641491000006116,K0D,K0D..00,46177005,76996018,End-stage renal disease,1
+3245841000006115,^ESCTEN324584,,46177005,76996018,End stage kidney disease,1
+299665018,G222,G222.00,49220004,81984019,Hypertensive renal disease with renal failure,1
+3296351000006114,^ESCTHY329635,,49220004,81984019,Hypertensive renal failure,1
+354346014,K032y-5,K032y15,52845002,87940013,Mixed membranous and proliferative glomerulonephritis NEC,1
+3466081000006115,^ESCTME346608,,59479006,98800018,"Mesangiocapillary glomerulonephritis, type II",1
+499033018,K0A0,K0A0.00,61503006,499033018,Acute nephritic syndrome,1
+886721000006116,K13z-99,K13z.99,620391000000106,886721000006116,Renal disease NOS,1
+430591000006111,Kyu0C,Kyu0C00,64212008,106739010,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",1
+108730018,G220,G220.00,65443008,108730018,Malignant hypertensive renal disease,1
+109700019,G231,G231.00,66052004,109700019,Benign hypertensive heart AND renal disease,1
+886871000006112,K1z-99,K1z..99,666091000000101,886871000006112,Kidney/urinary disease NOS,1
+110659019,G230,G230.00,66610008,110659019,Malignant hypertensive heart AND renal disease,1
+557811000000119,1Z15,1Z15.00,700378005,2990386017,Chronic kidney disease stage 3A,1
+557831000000110,1Z16,1Z16.00,700379002,2990361014,Chronic kidney disease stage 3B,1
+7593681000006118,^ESCTHY759368,,704667004,3013929017,Hypertension concurrent and due to end stage renal disease on dialysis,1
+2771041011,K05-3,K05..13,709044004,3036750018,Chronic kidney disease,1
+7643311000006115,^ESCTCK764331,,709044004,3037959015,CKD - chronic kidney disease,1
+7643331000006114,^ESCTCH764333,,709044004,3038200016,Chronic renal disease,1
+7702321000006115,^ESCTCH770232,,713313000,3288821013,Chronic kidney disease mineral and bone disorder,1
+7714901000006119,^ESCTCH771490,,714152005,3298467018,Chronic kidney disease 5d,1
+7714911000006116,^ESCTCK771491,,714152005,3298670011,CKD (chronic kidney disease) stage 5d,1
+7714891000006118,^ESCTCH771489,,714152005,3298729015,Chronic kidney disease stage 5 on dialysis,1
+7714921000006112,^ESCTCH771492,,714153000,3298559011,Chronic kidney disease stage 5 with transplant,1
+7714941000006117,^ESCTCK771494,,714153000,3298692010,CKD (chronic kidney disease) stage 5t,1
+189181000006115,K0A25,K0A2500,714819001,3300538017,Recurrent haematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,1
+189141000006114,K0A22,K0A2200,714821006,3300544018,Recurrent haematuria co-occurrent and due to diffuse membranous glomerulonephritis,1
+189171000006118,K0A23,K0A2300,714825002,3300556017,Recurrent haematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,1
+7791761000006119,^ESCTTU779176,,719839000,3318118018,Tubular renal disease with cardiomyopathy syndrome,1
+7827591000006117,^ESCTID782759,,722119002,3330958011,Idiopathic membranous glomerulonephritis,1
+7832091000006112,^ESCTCH783209,,722467000,3332275016,Chronic kidney disease due to traumatic loss of kidney,1
+11856531000006118,^ESCT1185653,,723373006,3636195014,Uromodulin related autosomal dominant tubulointerstitial kidney disease,1
+11856521000006116,^ESCT1185652,,723373006,3636196010,UMOD-related autosomal dominant tubulointerstitial kidney disease,1
+7854191000006115,^ESCTHD785419,,724282009,3433588014,"HDR (hypoparathyroidism, sensorineural deafness, renal disease) syndrome",1
+3734081000006114,^ESCTME373408,,75888001,1233931018,Mesangiocapillary glomerulonephritis type I,1
+3734051000006118,^ESCTME373405,,75888001,126049014,"Mesangiocapillary glomerulonephritis, type I",1
+12051931000006115,^ESCT1205193,,767094002,3664194017,Kidney parenchyma disease,1
+553201000006117,K0A32,K0A3200,77182004,1234074010,"Chronic nephritic syndrome, diffuse membranous glomerulonephritis",1
+555201000006116,K021,K021.00,77182004,128137019,Chronic membranous glomerulonephritis,1
+303875010,K031,K031.00,77182004,128137019,Membranous glomerulonephritis,1
+2622801000006117,^ESCTNE262280,,7724006,13775014,Nephritic syndrome,1
+354380012,K032y-4,K032y14,80321008,133280014,Mesangiocapillary glomerulonephritis,1
+893231000006117,PD1-99,PD1..99,82525005,893231000006117,Cystic kidney disease,1
+143003017,G23,G23..00,86234004,143003017,Hypertensive heart AND renal disease,1
+299675015,G23z,G23z.00,86234004,143003017,Hypertensive heart and renal disease NOS,1
+3902031000006117,^ESCTCA390203,,86234004,143006013,Cardiorenal disease,1
+13485231000006117,^ESCT1348523,,870589006,3972966011,Acute kidney injury due to disease caused by Severe acute respiratory syndrome coronavirus 2,1
+2323001000000115,4Z1,4Z1..00,903261000000109,2323001000000115,Chronic kidney disease laboratory study,1
+3973811000006118,^ESCTCH397381,,90688005,150286014,Chronic renal failure syndrome,1
+3973841000006119,^ESCTCR397384,,90688005,509110011,CRF - Chronic renal failure,1
+509111010,K05,K05..00,90688005,509111010,Chronic renal failure,1
+305192017,Kyu21,Kyu2100,90688005,509111010,[X]Other chronic renal failure,1
+354317019,K13-1,K13..11,90708001,150315015,Kidney disease,1
+3974181000006119,^ESCTRE397418,,90708001,150323018,Renal disease,1
+1940561000006118,1Z1M,1Z1M.00,949401000000103,2426331000000114,CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1,1
+1940571000006113,1Z1N,1Z1N.00,949421000000107,2426381000000113,CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2,1
+1940581000006111,1Z1P,1Z1P.00,949481000000108,2426511000000114,CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3,1
+1940591000006114,1Z1Q,1Z1Q.00,949521000000108,2426601000000111,CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1,1
+8345651000006111,^ESCTCH834565,,949521000000108,2426671000000115,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1,1
+1940601000006118,1Z1R,1Z1R.00,949561000000100,2426691000000116,CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2,1
+1940611000006115,1Z1S,1Z1S.00,949621000000109,2426821000000118,CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3,1
+1940621000006111,1Z1T,1Z1T.00,949881000000106,2427381000000110,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1,1
+1940631000006114,1Z1V,1Z1V.00,949901000000109,2427401000000110,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2,1
+8345901000006119,^ESCTCH834590,,949901000000109,2427431000000116,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2,1
+1940641000006116,1Z1W,1Z1W.00,949921000000100,2427451000000111,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,1
+8345931000006110,^ESCTCH834593,,949921000000100,2427481000000117,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,1
+1940651000006119,1Z1X,1Z1X.00,950061000000103,2427751000000117,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,1
+8346001000006110,^ESCTCH834600,,950061000000103,2427781000000111,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,1
+1940661000006117,1Z1Y,1Z1Y.00,950081000000107,2427801000000112,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,1
+8346021000006117,^ESCTCH834602,,950081000000107,2427831000000118,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,1
+1940671000006112,1Z1Z,1Z1Z.00,950101000000101,2427851000000113,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3,1
+8346041000006112,^ESCTCH834604,,950101000000101,2427881000000119,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3,1
+1940501000006119,1Z1a,1Z1a.00,950181000000106,2428021000000111,CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1,1
+1940511000006116,1Z1b,1Z1b.00,950211000000107,2428091000000114,CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2,1
+1940521000006112,1Z1c,1Z1c.00,950231000000104,2428141000000115,CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3,1
+8346151000006113,^ESCTCH834615,,950231000000104,2428171000000114,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3,1
+1940531000006110,1Z1d,1Z1d.00,950251000000106,2428191000000113,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1,1
+1940541000006117,1Z1e,1Z1e.00,950291000000103,2428281000000117,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2,1
+1940551000006115,1Z1f,1Z1f.00,950311000000102,2428331000000110,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3,1
+8346221000006114,^ESCTCH834622,,950311000000102,2428361000000117,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3,1
+8030421000006114,^ESCTHY803042,,96721000119103,2968177010,Hypertensive heart AND chronic kidney disease stage 4,1
+8030431000006112,^ESCTHY803043,,96731000119100,2922231016,Hypertensive heart AND chronic kidney disease stage 3,1
+8030441000006119,^ESCTHY803044,,96741000119109,2922230015,Hypertensive heart AND chronic kidney disease stage 2,1
+8030451000006117,^ESCTHY803045,,96751000119106,2968355016,Hypertensive heart AND chronic kidney disease stage 1,1
+994391000006115,EMISNQCH17,,994391000006104,994391000006115,Chronic kidney disease stage,1
+994411000006115,EMISNQCH19,,994411000006104,994411000006115,Chronic kidney disease stage 2,1
+994421000006111,EMISNQCH20,,994421000006107,994421000006111,Chronic kidney disease stage 3,1
+994441000006116,EMISNQCH22,,994441000006100,994441000006116,Chronic kidney disease stage 5,1

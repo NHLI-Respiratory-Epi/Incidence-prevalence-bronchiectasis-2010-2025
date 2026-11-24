@@ -1,0 +1,19 @@
+icd10,term
+A31.0,Pulmonary mycobacterial infection
+J10.0,"Influenza with pneumonia, seasonal influenza virus identified"
+J10.1,"Influenza with other respiratory manifestations, seasonal influenza virus identified"
+J13,Pneumonia due to Streptococcus pneumoniae
+J14,Pneumonia due to Haemophilus influenzae
+J15.1,Pneumonia due to Pseudomonas
+J18.0,"Bronchopneumonia, unspecified"
+J18.1,"Lobar pneumonia, unspecified"
+J18.9,"Pneumonia, unspecified"
+J22,Unspecified acute lower respiratory infection
+J47,Bronchiectasis
+J96.0,Acute respiratory failure
+J96.9,"Respiratory failure, unspecified"
+R04.2,Haemoptysis
+R06.0,Dyspnoea
+R07.3,Other chest pain
+R07.4,"Chest pain, unspecified"
+U07.1,"COVID-19, virus identified; COVID-19 NOS (Emergency use of U07 by WHO)"

@@ -1,0 +1,61 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,lupus,jkq_lupus,jkq_lupus_note
+1485573019,43H3,43H3.00,1001611000000103,2555911000000115,LE (lupus erythematosus) latex test,1,2,if value availible
+1792431000000117,42jG0,42jG000,1006451000000108,2585211000000115,Lupus insensitive activated partial thromboplastin time,1,2,if value availible
+1224370019,43ac,43ac.00,1013611000000101,2562421000000117,Lupus inhibitor activity,1,2,if value availible
+458387018,43c3,43c3.00,1016781000000105,2557851000000116,Lupus anticoagulant screening test,1,2,if value availible
+719331000006112,43GE,43GE.00,1031541000000107,2600981000000117,Lupus antibody screening,1,2,if value availible
+8412621000006112,^ESCTLU841262,,1031541000000107,2601011000000119,Lupus anticoagulant screening,1,2,if value availible
+8412631000006110,^ESCTLU841263,,1031541000000107,2603251000000112,Lupus inhibitor assay,1,2,if value availible
+486895011,43H,43H..00,1031751000000100,2600281000000113,LE (lupus erythematosus) cell level,1,2,if value availible
+18298019,A1701-99,A170199,10528009,18298019,Lupus vulgaris,1,1,
+109961000006114,EMISREQ|43GE.,43GE.00,109961000006105,109961000006114,Test request : Lupus anticoagulant,1,2,if value availible
+297542011,F3710,F371000,193178008,297542011,Polyneuropathy in disseminated lupus erythematosus,1,1,
+297639014,F3961,F396100,193248005,297639014,Myopathy due to disseminated lupus erythematosus,1,1,
+301721015,H57y4,H57y400,196138005,301721015,Lung disease with systemic lupus erythematosus,1,1,
+308697013,M154,M154.00,200936003,308697013,Lupus erythematosus,1,1,
+308709013,M154z,M154z00,200936003,308697013,Lupus erythematosus NOS,1,1,
+4805591000006111,^ESCTLE480559,,200936003,308698015,LE - Lupus erythematosus,1,1,
+4805601000006115,^ESCTLU480560,,200936003,308699011,Lupus,1,1,
+308700012,M1540,M154000,200937007,308700012,Lupus erythematosus chronicus,1,1,
+308701011,M1541,M154100,200938002,308701011,Discoid lupus erythematosus,1,1,
+4805631000006111,^ESCTDL480563,,200938002,308702016,DLE - Discoid lupus erythematosus,1,1,
+4805641000006118,^ESCTLE480564,,200938002,308703014,LE - Discoid lupus erythematosus,1,1,
+308704015,M1542,M154200,200939005,308704015,Lupus erythematosus migrans,1,1,
+308705019,M1543,M154300,200940007,308705019,Lupus erythematosus nodularis,1,1,
+308706018,M1545,M154500,200941006,308706018,Lupus erythematosus tumidus,1,1,
+308707010,M1546,M154600,200942004,308707010,Lupus erythematosus unguium mutilans,1,1,
+309405011,N0002,N000200,201436003,309405011,Drug-induced systemic lupus erythematosus,1,1,
+114251000006118,N0003,N000300,239887007,359443016,Systemic lupus erythematosus with organ/system involvement,1,1,
+5140901000006112,^ESCTSY514090,,239890001,359446012,Systemic lupus erythematosus with multisystem involvement,1,1,
+359447015,M1547,M154700,239891002,359447015,Subacute cutaneous lupus erythematosus,1,1,
+177301000006114,K0B40,K0B4000,307755009,451122013,Renal tubulo-interstitial disorder in systemic lupus erythematosus,1,1,
+453243010,N0004,N000400,309762007,453243010,Systemic lupus erythematosus with pericarditis,1,1,
+3086691000006118,^ESCTLU308669,,36402006,1228645015,Lupus nephritis - WHO Class IV,1,1,
+3086671000006119,^ESCTSL308667,,36402006,60752017,"SLE glomerulonephritis syndrome, WHO class IV",1,1,
+6593671000006115,^ESCTLU659367,,397845003,1785993013,Lupus miliaris disseminatus faciei,1,1,
+6681861000006119,^ESCTSU668186,,403490003,1782526013,"Subacute cutaneous lupus erythematosus, papulosquamous type",1,1,
+6681891000006110,^ESCTHY668189,,403492006,1782528014,Hypertrophic type discoid lupus erythematosus,1,1,
+6681991000006119,^ESCTDI668199,,403499002,1782535018,Discoid lupus erythematosus of lip,1,1,
+8155241000006117,^ESCTLU815524,,430961000124105,3037393011,Lupus cheilitis,1,1,
+2573581000006110,^ESCTSL257358,,4676006,8814010,"SLE glomerulonephritis syndrome, WHO class II",1,1,
+3343601000006112,^ESCTLU334360,,52042003,1231073015,Lupus nephritis - WHO Class V,1,1,
+3343571000006117,^ESCTSL334357,,52042003,86630016,"SLE glomerulonephritis syndrome, WHO class V",1,1,
+3400601000006117,^ESCTSL340060,,55464009,1231480012,SLE - Systemic lupus erythematosus,1,1,
+92208011,N000,N000.00,55464009,92208011,Systemic lupus erythematosus,1,1,
+309408013,N000z,N000z00,55464009,92208011,Systemic lupus erythematosus NOS,1,1,
+312579010,Nyu43,Nyu4300,55464009,92208011,[X]Other forms of systemic lupus erythematosus,1,1,
+92209015,N0000,N000000,55464009,92209015,Disseminated lupus erythematosus,1,1,
+3619221000006118,^ESCTSL361922,,68815009,114307010,SLE glomerulonephritis syndrome,1,1,
+677561000006119,K01x4,K01x400,68815009,114310015,Nephrotic syndrome in systemic lupus erythematosus,1,1,
+114310015,K01x4-1,K01x411,68815009,114310015,Lupus nephritis,1,1,
+309383019,Myu78,Myu7800,7119001,12747019,Cutaneous lupus erythematosus,1,1,
+7861211000006111,^ESCTDE786121,,724781003,3449570014,Demyelination with systemic lupus erythematosus,1,1,
+7951831000006118,^ESCTSE795183,,732960002,3498454018,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,1,1,
+3789501000006115,^ESCTDI378950,,79291003,1234338013,Discoid lupus erythematosus eyelid,1,1,
+2267501000000115,43GE1,43GE100,878791000000101,2267501000000115,Lupus anticoagulant positive,1,1,
+8320771000006119,^ESCTSY832077,,905381000000108,2328211000000115,Systemic lupus erythematosus/Sjogren's overlap syndrome,1,1,
+4056181000006118,^ESCTSY405618,,95408003,158037015,Systemic lupus erythematosus arthritis,1,1,
+158442019,N0006-1,N000611,95644001,158442019,Systemic lupus erythematosus encephalitis,1,1,
+512234017,N0006,N000600,95644001,512234017,Cerebral lupus,1,1,
+4060291000006118,^ESCTCE406029,,95644001,512235016,Cerebral systemic lupus erythematosus,1,1,
+257962019,43GD,43GD.00,992111000000109,2568461000000110,Lupus circulating anticoagulant index,1,2,if value availible

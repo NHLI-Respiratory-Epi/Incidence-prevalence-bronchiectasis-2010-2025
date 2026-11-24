@@ -1,0 +1,6 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,term,exacerbation
+7049011000006110,^ESCTAC704901,,425748003,2674296011,Acute exacerbation of chronic bronchitis,1
+7307141000006111,^ESCTAC730714,,445378003,2871807015,Acute exacerbation of bronchiectasis,1
+1173471000000110,8BP8,8BP8.00,525691000000103,1173471000000110,Antibiotic therapy for acute pulmonary exacerbation,1
+851261000006116,EMISR4QCH1,,851261000006100,851261000006116,"Chronic bronchitis, acute exac",1
+14133001000006111,^ESCT1413300,,879963005,3994042011,Exacerbation of bronchiectasis caused by infection,1
